@@ -1,6 +1,6 @@
 <h1>Welcome to the coolest Tomcat webapp ever !</h1>
 
-<h2>Interesting things to do for today, Victor Tan</h2>
+<h2>There is nothing to do today, Victor Tan</h2>
 
  <ul>
   <li>Learn JavaScript</li>
